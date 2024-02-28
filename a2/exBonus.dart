@@ -38,9 +38,9 @@ void main() {
     Mum += 1;
   }
 
-  print('$Mcem moeda(s) de M\$100,00');
-  print('$Mcin moeda(s) de M\$50,00');
-  print('$Mdez moeda(s) de M\$10,00');
-  print('$Mcinco moeda(s) de M\$5,00');
-  print('$Mum moeda(s) de M\$1,00');
+    print('''$Mcem moeda(s) de M\$100,00
+$Mcin moeda(s) de M\$50,00
+$Mdez moeda(s) de M\$10,00
+$Mcinco moeda(s) de M\$5,00
+$Mum moeda(s) de M\$1,00''');
 }
